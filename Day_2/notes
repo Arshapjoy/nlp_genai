@@ -1,1 +1,29 @@
 
+Download and install the vscode: https://code.visualstudio.com/download
+
+Download and install anaconda: https://www.anaconda.com/download/success
+
+Open the colab using this link: https://colab.research.google.com/
+
+Python download and installation link: https://www.python.org/downloads/
+
+Note: Download python version at least 3.10 or more than that
+
+If python and vs code and anaconda is not ready inside your system you can work with colab
+
+Go and search python in your vs code extension and download the microsoft python extension
+
+Click on view > open command pallet > select python interpreter > select base interpreter(this interpreter from anaconda)
+
+
+If anaconda is not there inside your system then what you will do Download and install anacond
+a: https://www.anaconda.com/download/success
+
+
+Steps for creating and activating the virtual env:
+
+Conda create -p venv python=3.10 -y
+Conda activate <path of your virtual env>
+
+
+We have to create and install the requirement file : pip install -r requirements.txt
