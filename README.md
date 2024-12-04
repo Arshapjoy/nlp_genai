@@ -11,7 +11,8 @@
 |  No |                                                                                                  Topics covered|
 |--------|----------------------------------------------------------------------------------------------------------------|
 |  1  | Introduction to Gen AI, LLM, unimodel and multimodel |
-| 2  | Text preprocessing                                                     |
+| 2  | Text preprocessing   
+|3 | Encoding and embedding techniques: OHE, BOW, TF-IDF, ........|
 
 
 
