@@ -10,9 +10,9 @@
 
 |  No |                                                                                                  Topics covered|
 |--------|----------------------------------------------------------------------------------------------------------------|
-|  1  | Introduction to Gen AI, LLM, unimodel and multimodel |
-| 2  | Text preprocessing   
-|3 | Encoding and embedding techniques: OHE, BOW, TF-IDF, ........|
+|  1  | **Introduction to Gen AI** LLM, unimodel and multimodel |
+| 2  | **Text preprocessing and basic terms** :Tokenization, Removing stopwords, Stemming and Lemmatization, Handling punctuation, numbers, and special characters, Lowercasing and whitespace removal|
+|3 | **Encoding and embedding techniques**: OHE, BOW, TF-IDF, Word2Vec,Glove|
 
 
 
